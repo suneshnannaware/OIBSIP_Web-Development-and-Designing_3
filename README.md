@@ -48,8 +48,7 @@ This project improved my understanding of:
 ---
 
 ## Project Links
-- GitHub Repository: (Add your repository link here)  
-- Demo Video: (Add video link if applicable)  
-- LinkedIn Post: (Add LinkedIn post link here)  
+- Demo Video: (https://www.linkedin.com/posts/sunesh-k-nannaware_internship-webdevelopment-javascript-activity-7428046534010679296-PdTf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFa2c5QBxJ-mmzKlJwgnuXETg45pjMj35Os)  
+- LinkedIn Post: (https://www.linkedin.com/posts/sunesh-k-nannaware_internship-webdevelopment-javascript-activity-7428046534010679296-PdTf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFa2c5QBxJ-mmzKlJwgnuXETg45pjMj35Os)  
 
 ---
